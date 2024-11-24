@@ -8,6 +8,7 @@ public class DataTypesConversion {
 		System.out.printf("%S\n",binaryString);
 		String s1=Integer.toOctalString(200);
 		System.out.println(s1);
+		
 	}
 
 }
