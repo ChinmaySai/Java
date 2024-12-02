@@ -10,5 +10,4 @@ public class DataTypesConversion {
 		System.out.println(s1);
 		
 	}
-
 }
