@@ -10,6 +10,7 @@ public class IntegertoBinary {
 		System.out.println("Binary Format of "+x+" is "+Integer.toBinaryString(x));
 
 		
+		
 	}
 
 }
