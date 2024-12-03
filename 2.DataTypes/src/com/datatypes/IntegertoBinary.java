@@ -9,8 +9,6 @@ public class IntegertoBinary {
 		x=-10;
 		System.out.println("Binary Format of "+x+" is "+Integer.toBinaryString(x));
 
-		
-		
 	}
 
 }
