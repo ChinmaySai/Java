@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.javadoc","c":"JavaDocExample","l":"add(String[])","u":"add(java.lang.String[])"},{"p":"com.javadoc","c":"JavaDocExample","l":"add1(int, int)","u":"add1(int,int)"},{"p":"com.javadoc","c":"JavaDocExample","l":"JavaDocExample()","u":"%3Cinit%3E()"}];updateSearchResults();
