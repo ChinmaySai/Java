@@ -14,13 +14,19 @@ class Child extends Parent
 	{
 		
 	}
+	@Deprecated
+	public void show()
+	{
+		
+	}
 }
 
 public class AnnotationDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		Child ch=new Child();
+		ch.show();
 	}
 
 }
