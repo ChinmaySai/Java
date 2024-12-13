@@ -21,6 +21,7 @@ class Child extends Parent
 	}
 }
 
+
 public class AnnotationDemo {
 
 	public static void main(String[] args) {
