@@ -14,11 +14,6 @@ class Child extends Parent
 	{
 		
 	}
-	@Deprecated
-	public void show()
-	{
-		
-	}
 }
 
 
@@ -27,7 +22,7 @@ public class AnnotationDemo {
 	public static void main(String[] args) {
 
 		Child ch=new Child();
-		ch.show();
+		ch.display();
 	}
 
 }
