@@ -15,6 +15,6 @@ public class DateDemo1 {
 		System.out.println("Day : "+d.getDay());
 		System.out.println("Month : "+d.getMonth());
 		System.out.println(d.getYear()+1900+" <-Year ");
+		System.out.println("GMT Time : "+d.toGMTString());
 	}
-
 }
