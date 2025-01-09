@@ -12,7 +12,6 @@ public class Example1 {
 		a=5;
 		b=0;
 		c=a/b;
-		
 		System.out.println(c);
 
 }
