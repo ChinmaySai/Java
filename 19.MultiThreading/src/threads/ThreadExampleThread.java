@@ -16,7 +16,6 @@ class MyThread extends Thread
 public class ThreadExampleThread
 {
     
-    
     public static void main(String[] args) {
         
         
