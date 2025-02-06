@@ -24,7 +24,7 @@ public class BitWiseOperators {
 	        
 	        
 	        
- int nu4=-0b1010; //try with + and -
+             int nu4=-0b1010; //try with + and -
 	        int num4=0;
 	        num4=x>>1; //~x
 	        System.out.println(String.format("%s",Integer.toBinaryString(x)));
