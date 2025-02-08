@@ -19,8 +19,8 @@ public static void main(String[] args) throws ClassNotFoundException, SQLExcepti
     int marks=sc.nextInt();
     String name=sc.next();
     String sqlInsert="insert into student values(?,?,?)";
-    Class.forName("org.postgresql.Driver");
-    Connection con=DriverManager.getConnection(url,username,password);
+    Class.forName("org.postgresql.Driver");//Invoking the Driver
+    Connection con=DriverManager.getConnection(url,username,password); //Establishing the Connection
     System.out.println("Establishing the Connection");
     PreparedStatement st=con.prepareStatement(sqlInsert);
     st.setInt(1,sid);
