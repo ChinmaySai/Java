@@ -1,6 +1,6 @@
 package com.string;
 
-public class StringPractice {
+public class StringCreation {
 
     public static void main(String[] args) {
         
