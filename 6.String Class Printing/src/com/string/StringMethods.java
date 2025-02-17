@@ -1,7 +1,7 @@
 package com.string;
 
 
-	public class StringPractice1 {
+	public class StringMethods {
 
 	    public static void main(String[] args) {
 	        
