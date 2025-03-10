@@ -1,6 +1,6 @@
 package com.ObjectOriented;
 
-class Rectangle
+class RectangleTest
 {
     private double length;
     private double breadth;
@@ -55,7 +55,7 @@ class Rectangle
 public class DataHidingExample {
 
     public static void main(String[] args) {
-        Rectangle r=new Rectangle();
+        RectangleTest r=new RectangleTest();
         r.setLength(10.5);//check with negative values.
         r.setBreadth(5.5);
         
