@@ -2,7 +2,7 @@ package com.exceptionhandling;
 
 /**
  * 
- * 
+ * Java Program for try with Multiple catch blocks
  * 
  */
 public class Example2 {
