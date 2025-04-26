@@ -1,0 +1,25 @@
+Package :
+Package is mechanism to group related classes,interfaces and enmus into a single module.
+syntax : package <package-name>
+They are categorized into two types
+              -- User defined packages
+              -- Built in packages(lang,util) 
+
+packages are used to prevent naming conflicts,controlled access and makes searching and locating the files easier
+Generally it will be first statement in the file.
+For importing package : import <package-name>
+Example:
+
+MyPackage.java
+
+package mypackage;
+import java.util.*;
+
+class MyPackage
+{
+public static void main(String args[])
+{
+java.lang.String str="Chinmay";
+System.out.println(str);
+}
+}
