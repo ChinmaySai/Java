@@ -1,0 +1,7 @@
+Access Modifiers:
+
+Access Modifiers are are used to manage the access level for classes,methods,constructors and variables.
+public -- Every where
+private -- Only in the same class
+protected -- Cannot be accessed in different package non-sub class
+default -- same package
