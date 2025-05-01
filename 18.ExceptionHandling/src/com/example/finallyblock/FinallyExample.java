@@ -16,8 +16,19 @@ public class FinallyExample
         
     }
     
-    public static void main(String[] args) throws Exception
+    public static void main(String[] args)throws Exception
     {
+    	try
+    	{
         meth1();
+    	}
+//    	catch(Exception e)
+//    	{
+//    		e.printStackTrace();
+//    	}
+	finally
+    	{
+    		System.out.println("Finally Main Method");
+    	}
     }   
 }

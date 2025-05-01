@@ -1,0 +1,21 @@
+Exception: Exception is an un-expected event that occurs during the execution of program which disrupts the normal flow of execution
+           and leads to abnormal termination.
+
+ArrayIndexOfBoundsException
+ArithmeticException
+StringIndexOutOfBoundsException
+ 
+Exception Handling :
+           Exception Handling is a mechanism for handling run-time errors to ensure application regular flow is maintained.
+             
+             
+             
+Each of the server (server-1,server-2,server-3) would be associated with some IP Address. But for client they will be single url.
+Client w
+
+Round Robin : 
+
+ 
+ 
+IP Hashing 
+After taking the IP Address from the client an Hash Function would be applied on it and load balancer delegate the request to specific server 
