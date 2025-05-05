@@ -16,7 +16,7 @@ public class ArrayListExample {
         al1.add(5,70);
         al1.set(6,100);
         al1.remove("100");//Remove Object 100 from the List
-        al.remove(0);//Remove 0th index element from thr List
+        al.remove(0);//Remove 0th index element from the List
         al1.forEach(n->System.out.print(n));
         System.out.println();
         al1.forEach(System.out::print);
