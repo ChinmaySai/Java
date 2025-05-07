@@ -2,7 +2,6 @@
  * 
  * Java Program to count the Digits in the number
  */
-
 import java.util.Scanner;
 
 public class CountOfDigits
